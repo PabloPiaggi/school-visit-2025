@@ -1,3 +1,4 @@
 numpy==1.24.2
 ase==3.22.1
 nglview==3.1.2
+ipywidgets==8.1.3
